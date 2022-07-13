@@ -69,7 +69,7 @@ Generalização / Abstração
 
 **ABSTRAÇÃO:** Processo intelectual de isolamento de um objeto da realidade.
 
-**GENERALIZAR: **Tornar-se geral, mais amplo, extensão
+**GENERALIZAR:** Tornar-se geral, mais amplo, extensão
 
 Generalização, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
 
