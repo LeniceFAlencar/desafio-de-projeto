@@ -14,7 +14,7 @@
 
 **git commit:** captura um instantâneo das mudanças preparadas do projeto no momento
 
-**git remote add origin "link": **para adicionar um origin para o repositório se não existe nenhum
+**git remote add origin "link":** para adicionar um origin para o repositório se não existe nenhum
 
 **git push:** para enviar o conteúdo do repositório local para um repositório remoto
 
